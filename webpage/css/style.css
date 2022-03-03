@@ -1,0 +1,205 @@
+.heading{
+    position:fixed;
+    background-color: white;
+    margin-top: -15px;
+    width: 100%;
+   
+    /* position:absolute; */
+   
+}
+.heading h1 {
+    /* display: inline; */
+    /* display: flex; */
+    /* justify-content: space-between ; */
+    /* background-color: bisque; */
+    display: inline-block;
+    font-family:monospace;
+    margin-right: 2cm;
+    margin-bottom: 0cm;
+    margin-left: 3cm;
+    
+
+    
+}
+#img{
+    width: 1500px;
+    
+    height:700px;
+    margin-left:auto;
+}
+.txt1{
+    /* display: inline-block; */
+    text-align: center;
+    font-size: 20px;
+    
+    
+}
+em{
+    color: orange;
+}
+
+.ourproducts{
+    margin-top: 2cm;
+
+
+}
+h1{
+    text-align: center;
+}
+
+
+
+.ourproducts img{
+    margin-left: 5cm;
+    
+}
+.ourproducts p {
+    margin-top: -20%;
+    text-align: left;
+    margin-bottom: 0%;
+    margin-top: 0%;
+    margin-left: 55%;
+    font-family: monospace;
+    font-size: 16px;
+    
+    
+}
+.ourproducts h2{
+    text-align:center;
+    margin-top: -25%;
+    color: orange;
+    /* margin-bottom: 0%; */
+    
+    
+}
+.ourproducts a{
+    color: orange;
+    margin-left: 55%;
+    
+    
+}
+.ourproducts2 img{
+    margin-top: 4cm;
+    margin-left: 24cm;
+}
+
+
+.ourproducts2 h2{
+    text-align:left;
+    margin-top: -10%;
+    margin-left: 2cm;
+    color: orange;
+    /* margin-bottom: 0%; */
+}
+.ourproducts2 p {
+    margin-top: -20%;
+    text-align: left;
+    margin-bottom: 0%;
+    margin-top: 0%;
+    margin-left: 5cm;
+    font-family: monospace;
+    font-size: 16px;
+}
+    
+.ourproducts2 a{
+    color: orange;
+    margin-left: 40%;
+}
+    
+
+.ourproducts3{
+    margin-top: 2cm;
+}
+.ourproducts3 img{
+    margin-left: 5cm;
+    
+}
+.ourproducts3 p {
+    margin-top: -18%;
+    text-align: left;
+    margin-bottom: 0%;
+    margin-top: 0%;
+    margin-left: 55%;
+    font-family: monospace;
+    font-size: 16px;
+    
+    
+}
+.ourproducts3 h2{
+    text-align:center;
+    margin-top: -23%;
+    color: orange;
+    margin-bottom: 0ch;
+    /* margin-bottom: 0%; */
+    
+    
+}
+.ourproducts3 h3{
+    margin-top: 0ch;
+    text-align: center;
+}
+.ourproducts3 a{
+    color: orange;
+    margin-left: 55%;
+    
+    
+}
+
+.info{
+    margin-top: 3%;
+    background-color: darkblue;
+    color: white;
+    display: inline-block;
+}
+
+.info .userinfo{
+    margin-left: 23cm;
+    margin-top: 0%;
+}
+.userinfo p{
+    margin-left:0%;
+    margin-bottom: 0%;
+}
+.userinfo #pnumber,#cityN{
+    
+    margin-left: 7cm;
+    margin-top:-7% ;
+}
+.userinfo #name,#email,#Phone,#city,#rname,#Message{
+    background-color: blueviolet;
+    padding: 5px;
+    border-radius:4px;
+}
+.userinfo #name,#email{
+    
+}
+
+.userinfo #Phone,#city{
+    margin-left: 7cm;
+   
+}
+.userinfo #rname,#Message{
+    width:68%;
+    
+    
+}
+.userinfo #button{
+    background-color: orange;
+    margin-left: 10cm;
+    margin-top:2% ;
+    margin-bottom: 3cm;
+
+}
+
+.info .address{
+    text-align: left;
+    margin-left: 13cm;
+    margin-top: -18%;
+    
+}
+.info #infor{
+    margin-bottom: 0%;
+    margin-right: 0%;
+    margin-left:4cm;
+    margin-top: 5%;
+}
